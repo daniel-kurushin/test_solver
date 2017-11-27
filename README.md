@@ -1,1 +1,1 @@
-# test_solver
+Denotat Test Solver / Решатель тестов на базе денотатной структуры
